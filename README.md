@@ -15,7 +15,7 @@ pip install torch sentencepiece tqdm
 
 ## 🔗 Step 1: Tokenizer Preparation
 
-Create a file named wiki.txt and add the your content (tetx) to it. Before training the model, you must prepare the tokenizer:
+Create a file named wiki.txt and add the your content (text) to it. Before training the model, you must prepare the tokenizer:
 
 ```bash
 python tokenizer.py
