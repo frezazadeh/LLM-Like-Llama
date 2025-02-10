@@ -55,3 +55,9 @@ If you trained the model on CPU, you can also infer on CPU:
 python main.py --DEVICE cpu --mode inference
 ```
 
+---
+
+## 📚 Reference
+
+For more information, visit: [Ideami](https://ideami.com/)
+
