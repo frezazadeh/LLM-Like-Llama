@@ -1,7 +1,5 @@
 # LLM-Like-Llama
 
-📂 Project Structure
-
 llm_project/
 ├── README.md
 ├── config.py
